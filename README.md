@@ -21,7 +21,7 @@ I'm M Soumya Prakash Sahoo, a final year Electrical undergraduate at the Indian 
       <img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=gritty-git&show_icons=true&theme=tokyonight&hide_border=true" />
     </a>
   </div>
-  <br><br><br>
+  <br>
 <div align=center>
     <a href="https://github.com/gritty-git/github-readme-stats">
       <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gritty-git&title_color=61dafb&hide=c%2B%2B&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
