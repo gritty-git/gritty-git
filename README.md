@@ -12,11 +12,19 @@ I'm M Soumya Prakash Sahoo, a final year Electrical undergraduate at the Indian 
 
 <h1 align="center">⚡ Stats ⚡</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gritty-git&theme=tokyonight&hide_border=true&border_radius=7)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gritty-git&show_icons=true&theme=tokyonight&hide_border=true)
 
 <div align=center>
     <a href="https://github.com/gritty-git/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gritty-git&title_color=61dafb&hide=c%2B%2B&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=450 align="center" src="https://streak-stats.demolab.com?user=gritty-git&theme=tokyonight&hide_border=true&border_radius=7" />
+    </a>
+  <a href="https://github.com/gritty-git/github-readme-stats">
+      <img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=gritty-git&show_icons=true&theme=tokyonight&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br>
+<div align=center>
+    <a href="https://github.com/gritty-git/github-readme-stats">
+      <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gritty-git&title_color=61dafb&hide=c%2B%2B&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 
