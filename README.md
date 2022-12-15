@@ -12,7 +12,7 @@ I'm M Soumya Prakash Sahoo, a final year Electrical undergraduate at the Indian 
 
 <h1 align="center">⚡ Stats ⚡</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gritty-git&theme=tokyonight&hide_border=true&border_radius=7)](https://git.io/streak-stats)             ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gritty-git&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gritty-git&theme=tokyonight&hide_border=true&border_radius=7)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gritty-git&show_icons=true&theme=tokyonight&hide_border=true)
 
 <div align=center>
     <a href="https://github.com/gritty-git/github-readme-stats">
